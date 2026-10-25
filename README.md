@@ -14,7 +14,7 @@ You can access the Bank Loan Policy application using the link below:
 
 Example:
 
-[Click Here to Open the Streamlit App](https://pragyanaipythonprojectloanpolicybazaar-7xizskjfsq3rpe3ypwtden.streamlit.app/)
+[Click Here to Open the Streamlit App]https://webscrappingbankloanpolicy-9oddmpapebo35pa7fx8acf.streamlit.app/)
 
 ---
 
@@ -250,4 +250,4 @@ It provides important loan details such as interest rate, tenure, eligibility, a
 
 # 👨‍💻 Developed By
 
-**Ajay Saware**  
+**Sudeep S **  
